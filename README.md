@@ -12,6 +12,6 @@ fathom demo
 | Repository | What it is |
 |---|---|
 | [fathom](https://github.com/ERA-Fathom/fathom) | Adapters and a CLI for the committed-state read over LangGraph, CrewAI, Letta, OpenInference (Arize Phoenix), DBOS, and coding-agent edit logs. Start here. |
-| [agent-committed-state](https://github.com/ERA-Fathom/agent-committed-state) | A committed-state layer for long-horizon agents, deployable as a Cloudflare Worker. |
+
 
 **Send us a trace, get a readout.** Fifteen research pages and case studies, including the paper behind the read, are at [embeddedriskanalytics.com/research](https://embeddedriskanalytics.com/research.html). Paper: [SSRN 6683578](https://doi.org/10.2139/ssrn.6683578). Contact: [contact@embeddedriskanalytics.com](mailto:contact@embeddedriskanalytics.com).
