@@ -17,4 +17,4 @@ fathom expiry trace.json    # functional life remaining, and the exposure alarm
 |---|---|
 | [fathom](https://github.com/ERA-Fathom/fathom) | Adapters and a CLI for the committed-state read and the expiry read. Fourteen formats: LangGraph, CrewAI, Letta, OpenInference (Arize Phoenix), DBOS and coding-agent edit logs by export, and the log files ChatDev, MetaGPT, OpenManus, Magentic-One, HyperAgent, AppWorld and AG2 already write, read as they are. Start here. |
 
-**Send us a trace, get a readout.** Fifteen research pages and case studies, including the paper behind the read, are at [embeddedriskanalytics.com/research](https://embeddedriskanalytics.com/research.html). Paper: [SSRN 6683578](https://doi.org/10.2139/ssrn.6683578). Contact: [contact@embeddedriskanalytics.com](mailto:contact@embeddedriskanalytics.com).
+**Send us a trace, get a readout.** Research pages and case studies, including the paper behind the read, are at [embeddedriskanalytics.com/research](https://embeddedriskanalytics.com/research.html). Paper: [SSRN 6683578](https://doi.org/10.2139/ssrn.6683578). Contact: [contact@embeddedriskanalytics.com](mailto:contact@embeddedriskanalytics.com).
